@@ -1,6 +1,4 @@
----
 
-```markdown
 # SpeedTest Bash Script 🚀
 
 Welcome to the **SpeedTest Bash Script**! This script leverages the power of [speedtest-cli](https://github.com/sivel/speedtest-cli) and [jq](https://stedolan.github.io/jq/) to run a network speed test and display the results in a beautifully organized format.
@@ -90,7 +88,5 @@ Before running the script, make sure you have the following installed:
 
 Contributions are welcome! If you have ideas for improvements or find any issues, feel free to open an issue or submit a pull request.
 
----
 
 Happy Testing! 🚀⚡
-```
